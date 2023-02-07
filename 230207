@@ -1,7 +1,7 @@
 
-#230207
+# 230207
 
-##L1
+## L1
 
 - Ton
 - Aptos
@@ -16,13 +16,13 @@
 - Celestia
 - Fuel
 
-##L2
+## L2
 - Polygon
 - Metis
 - OP
 - Arb
 
-##DeFI
+## DeFI
 
 - 跨链（全链互联）：类似 #LayerZero #Alexar #Wormhole
 - 多链DeFi：类似#Hop #Synapse #Across   #StarGate
@@ -36,7 +36,7 @@
 - 价值捕获：类似#GMX 协议
 - 隐私/抗审查：类似#Aleo
 
-##NFT用例叙事
+## NFT用例叙事
 - GameFi:全链游戏（#Loot #Curio #relams)
 -  L2 GameFi生态：#Starknet #Polyon #Arb #OP 
 - 游戏链：Arbitrum Nova、OP+imx、Avalanche、Flow、oasys_games
